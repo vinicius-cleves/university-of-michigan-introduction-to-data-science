@@ -4,6 +4,6 @@ This is my solution to the final project proposed on the course Intoduction to D
 The task can be summurized as testing the following Hypothesis: University towns have their mean housing prices less effected by recessions. 
 
 The data used was:
--Home sale prices for US cities
--List of university towns
--US GDP over time
+- Home sale prices for US cities
+- List of university towns
+- US GDP over time
